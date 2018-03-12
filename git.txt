@@ -1,2 +1,3 @@
 hello,git!
 修干净啊
+改错了add后还commit了
